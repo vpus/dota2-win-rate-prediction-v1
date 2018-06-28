@@ -105,7 +105,7 @@ Please don't abuse the API Key, if the api key is banned we are not going to upd
 ### Where to get more training data?
 We rebuilt our Dota2 Data System and now it's under [VArena](https://github.com/fundata-varena). It's still in Beta and currently it cannot support the sufficient data. It will be online soon.
 
-On the other hand, if you don't mind old data, we are also planning to host our former training data (includes 100,000,000+ matches before 2017 July) this summer. For now you can download [these 599868 matches data](http://usa.vpgame.com/tempo_storm/700_learning_data_2.pickle) to play around. This should be enough to make your model to reach a 58+% overall accuracy and 70%+ cross entropy accuracy. 
+On the other hand, if you don't mind old data, we are also planning to host our former training data (includes 100,000,000+ matches before 2017 July) this summer. For now you can download [these 599868 matches data](http://usa.vpgame.com/tempo_storm/700_learning_data_2.pickle) to play around. This should be enough to make your model to reach a 58+% overall accuracy. 
 
 ## Discussion ##
 If you have anything you'd like to discuss. Feel free to shoot an email to `gan_bing@vpgame.cn` or `shimakaze@vpesports.com`. 
